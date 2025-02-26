@@ -1,0 +1,5 @@
+/* make the border for images transparent with a 30px radius */
+.article__img {
+    border-radius: 10px !important;
+    border: none;
+}
